@@ -21,3 +21,14 @@ Hello, World
 
 ![earth image](./hoge.png)
 
+``` c
+#include <stdio.h>
+
+int main() {
+  printf("Hello, World\n");
+  return 0;
+}
+
+```
+
+`printf()`関数を使用してHello, Worldと出力しています
