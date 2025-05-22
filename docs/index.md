@@ -32,3 +32,8 @@ int main() {
 ```
 
 `printf()`関数を使用してHello, Worldと出力しています
+
+|Title      |Hello      |World       |
+|:----------|:---------:|-----------:|
+|hoge       |fuga       |piyo        |
+|A          |B          |C           |
